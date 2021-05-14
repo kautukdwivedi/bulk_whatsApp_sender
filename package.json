@@ -1,5 +1,5 @@
 {
-  "name": "bulk_whatsapp_sender",
+  "name": "w-app",
   "version": "1.0.0",
   "description": "",
   "main": "sender.js",
@@ -9,7 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bin": "sender.js",
   "dependencies": {
+    "inquirer": "^8.0.0",
     "puppeteer": "^9.1.1"
   }
 }
