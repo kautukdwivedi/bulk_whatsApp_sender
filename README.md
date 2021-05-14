@@ -13,10 +13,10 @@ Steps to setup:-<br />
 <br />
 Steps to use:-<br />
 1.) Write w-app -help to see all features<br />
-Format                :- w-app -cmd [Message] -c [Contact list must be seperated by space]<br />
--m [Message]          :- To send message to given contacts<br />
--g [Topic]            :- To send gif to given contacts<br />
--r [Emoji]            :- To give reactions using emoji to given contacts<br />
--w [Ocassion]         :- To send greeting wishes to given contacts<br />
--help                 :- show help<br />
+Format&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:- w-app -cmd [Message] -c [Contact list must be seperated by space]<br />
+-m [Message]&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:- To send message to given contacts<br />
+-g [Topic]&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:- To send gif to given contacts<br />
+-r [Emoji]&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:- To give reactions using emoji to given contacts<br />
+-w [Ocassion]&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:- To send greeting wishes to given contacts<br />
+-help&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:- show help<br />
 2.) Use different features according to requirement and save time<br />
