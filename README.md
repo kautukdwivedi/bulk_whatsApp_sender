@@ -24,6 +24,7 @@ Format                :- w-app -cmd [Message] -c [Contact list must be seperated
 -g [Topic]            :- To send gif to given contacts
 -r [Emoji]            :- To give reactions using emoji to given contacts
 -w [Ocassion]         :- To send greeting wishes to given contacts
+-n [Name]             :- To make new group for given contacts
 -help                 :- show help
 </pre>
 2.) Use different features according to requirement and save time<br />
