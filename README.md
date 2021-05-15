@@ -10,7 +10,7 @@ In Order to use this Bulk Message sender from your command line, these are prequ
 <br />
 Steps to setup:-<br />
 1.) Download files <br />
-2.) In case you are using chrome browser just channgs executablePath of browser to google-chrome<br />
+2.) In case you are using chrome browser just channgs executablePath of browser to google-chrome in sender.js<br />
 3.) ExecutablePath for browser in Linux can be find by using "which google-chrome" in cmd and directly searched in Windows using properties<br />
 4.) Set up dependencies by using "npm install --save" in terminal<br />
 5.) run on cmdL : chmod +x sender.js<br />
