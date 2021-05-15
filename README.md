@@ -3,13 +3,15 @@
 In Order to use this Bulk Message sender from your command line, these are prequesit<br />
 1.) Must have node environment<br />
 2.) npm is must<br />
-3.) Brave browser<br />
+3.) Brave browser/Chrome browser<br />
 <br />
 Steps to setup:-<br />
 1.) Download files <br />
-2.) Set up dependencies by using "npm install --save" in terminal<br />
-3.) run on cmdL : chmod +x sender.js<br />
-4.) run on cmdL : npm link or npm link sender.js<br />
+2.) In case you are using chrome browser just channgs executablePath of browser to google-chrome<br />
+3.) ExecutablePath for browser in Linux can be find by using "which google-chrome" in cmd and directly searched in Windows using properties<br />
+4.) Set up dependencies by using "npm install --save" in terminal<br />
+5.) run on cmdL : chmod +x sender.js<br />
+6.) run on cmdL : npm link or npm link sender.js<br />
 <br />
 Steps to use:-<br />
 1.) Write w-app -help to see all features<br />
